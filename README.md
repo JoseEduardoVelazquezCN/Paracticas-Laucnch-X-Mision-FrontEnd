@@ -11,4 +11,4 @@
 [ver]()
 
 
-###### Made with :hand::raised_hand: by JEVCN
+###### Made with :bone::raised_hand: by JEVCN
