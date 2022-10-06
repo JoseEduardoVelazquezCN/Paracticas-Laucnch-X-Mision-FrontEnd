@@ -7,4 +7,8 @@
 ### Practicas de Intro a Frontend
 [Practicas](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/edit/main/README.md)
 
-###### Made with :heart: by JEVCN
+### Toma de requerimientos:
+[ver]()
+
+
+###### Made with :hand::raised_hand: by JEVCN
