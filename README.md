@@ -11,7 +11,7 @@
 [ver Requerimientos]()
 
 ### Buyer Perosna
-[ver Buyer persona]()
+[ver Buyer persona](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/06f87f87018e5ce44be14a25e3973d8845c7ae1e/Buyer%20Persona%20Abogabot.png)
 
 
 
