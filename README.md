@@ -16,7 +16,7 @@
 [ver Buyer persona](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/06f87f87018e5ce44be14a25e3973d8845c7ae1e/Buyer%20Persona%20Abogabot.png)👈
 
 ### Publico objetivo ✔️
-[ver publico objetivo]()👈
+[ver publico objetivo](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/ed9587decef0898da293a5fc9f95e110ebcb731a/Publico%20objetivo%20(1).png)👈
 
 ### Crea tu primer Wireframe UX ✔️
 [ver UX]() 👈
