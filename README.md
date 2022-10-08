@@ -1,10 +1,10 @@
 # Paracticas-Laucnch-X-Mision-FrontEnd
 
+## Practica INTRO FrontEnd ⭐ 
 ### :rocket: Iniciando el viaje 
-### Practica INTRO
 
-
-### Practicas de Intro a Frontend
+##ABOGABOTBOT
+### Descripción de practicas de Intro a Mision-Frontend
 [Practicas](https://github.com/JoseEduardoVelazquezCN/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/README.md#practicas-de-intro-a-frontend)
 
 ## 🧑‍ Lo que hice 💻
