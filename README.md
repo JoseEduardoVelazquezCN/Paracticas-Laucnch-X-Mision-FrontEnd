@@ -19,9 +19,12 @@
 [ver publico objetivo](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/ed9587decef0898da293a5fc9f95e110ebcb731a/Publico%20objetivo%20(1).png) 👈
 
 ### Crea tu primer Wireframe UX ✔️
+## Herramineta usada: Paint 3D
 [ver UX](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/6b5551d16ca2e3354b9cf02580807b4fff88c8db/wireframe.png) 👈
 
 ### Crea tu primer UI ✔️ 
-[ver UI]() 👈
+## Herramineta usada: Figma
+[ver "UI DEL ADMINISTRADOR DE ABOGABOT"](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/9ba0a912334ec4cd27b060bee3d13d60dcde42ff/ADMIN%20ABOGABOT.png) 👈
+[ver "UI DEL USUARIO DE ABOGABOT"](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/9ba0a912334ec4cd27b060bee3d13d60dcde42ff/USUARIO%20ABOGABOT.png) 👈
 
 ###### Made with :bone::raised_hand: by JEVCN
