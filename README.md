@@ -19,7 +19,7 @@
 [ver publico objetivo](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/ed9587decef0898da293a5fc9f95e110ebcb731a/Publico%20objetivo%20(1).png) 👈
 
 ### Crea tu primer Wireframe UX ✔️
-[ver UX]() 👈
+[ver UX](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/6b5551d16ca2e3354b9cf02580807b4fff88c8db/wireframe.png) 👈
 
 ### Crea tu primer UI ✔️ 
 [ver UI]() 👈
