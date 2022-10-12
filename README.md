@@ -1,6 +1,6 @@
 # Paracticas-Laucnch-X-Mision-FrontEnd
 
-⭐ ## Practica INTRO FrontEnd ⭐ 
+⭐ # Practica INTRO FrontEnd ⭐ 
 ### :rocket: Iniciando el viaje 
 
 ## ABOGABOT
