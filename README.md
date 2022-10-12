@@ -10,8 +10,26 @@
 ## 🧑‍ Lo que hice para esta Práctica 💻
 
 ### Toma de requerimientos: ✔️
-[ver Requerimientos]() 👈 
-#### Pendiente de subirlo ya que los tengo en una libreta 📝
+** Cliente
+   - Automatizar las demandas de los clientes, a traves de una página web llenando un formulario.
+   - Diseño web responsivo
+
+\
+** Usuario Final
+   - Inicio de Sesion 
+   - Registro
+   - Pagina Principal de información (información del despacho, equipo de abogados, etc.) 
+   - Formulario de inicio de proceso legal virtual 
+   - Seguimiento del proceso a traves de la cuenta del usuario final en la pagina web    
+   - Notificación por correo del seguimiento del caso legal virtual    
+\
+** Administrador
+   - Dashboard para el adminsitrador
+   - Control de ingresos
+   - Control de solicitudes
+   - Seguimiento, actualización de cada caso del usuarios final 
+
+
 
 ### Buyer Persona ✔️
 ##### Herramineta usada: Figma
