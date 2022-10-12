@@ -1,6 +1,6 @@
 # Paracticas-Laucnch-X-Mision-FrontEnd
 
-## Practica INTRO FrontEnd ⭐ 
+⭐ ## Practica INTRO FrontEnd ⭐ 
 ### :rocket: Iniciando el viaje 
 
 ## ABOGABOT
@@ -10,7 +10,7 @@
 ## 🧑‍ Lo que hice 💻
 
 ### Toma de requerimientos: ✔️
-[ver Requerimientos]() 👈 ####Pendiente de subirlo ya que los tengo en una libreta 📝
+[ver Requerimientos]() 👈 #### Pendiente de subirlo ya que los tengo en una libreta 📝
 
 ### Buyer Persona ✔️
 #### Herramineta usada: Figma
