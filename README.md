@@ -10,7 +10,7 @@
 ## 🧑‍ Lo que hice 💻
 
 ### Toma de requerimientos: ✔️
-[ver Requerimientos]() 👈
+[ver Requerimientos]() 👈 ####Pendiente de subirlo ya que los tengo en una libreta 📝
 
 ### Buyer Persona ✔️
 #### Herramineta usada: Figma
