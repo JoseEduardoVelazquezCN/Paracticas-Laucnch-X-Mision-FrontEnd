@@ -1,16 +1,17 @@
 # Paracticas-Laucnch-X-Mision-FrontEnd
 
 # ⭐ Practica INTRO FrontEnd ⭐ 
-### :rocket: Iniciando el viaje 
+###      :rocket: Iniciando el viaje 
 
-## ABOGABOT
-### Descripción de practicas de Intro a Mision-Frontend
+## PRáCTICA: ABOGABOT
+### Descripción de prácticas de Intro a Mision-Frontend (Descripcion caso Abogabot)
 [Practicas](https://github.com/JoseEduardoVelazquezCN/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/README.md#practicas-de-intro-a-frontend)
 
-## 🧑‍ Lo que hice 💻
+## 🧑‍ Lo que hice para esta Práctica 💻
 
 ### Toma de requerimientos: ✔️
-[ver Requerimientos]() 👈 #### Pendiente de subirlo ya que los tengo en una libreta 📝
+[ver Requerimientos]() 👈 
+#### Pendiente de subirlo ya que los tengo en una libreta 📝
 
 ### Buyer Persona ✔️
 #### Herramineta usada: Figma
