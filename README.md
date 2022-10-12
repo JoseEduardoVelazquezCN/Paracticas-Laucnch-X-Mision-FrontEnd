@@ -10,12 +10,12 @@
 ## 🧑‍ Lo que hice para esta Práctica 💻
 
 ### Toma de requerimientos: ✔️
-** Cliente
+**Cliente
    - Automatizar las demandas de los clientes, a traves de una página web llenando un formulario.
    - Diseño web responsivo
 
 \
-** Usuario Final
+**Usuario Final
    - Inicio de Sesion 
    - Registro
    - Pagina Principal de información (información del despacho, equipo de abogados, etc.) 
@@ -23,7 +23,7 @@
    - Seguimiento del proceso a traves de la cuenta del usuario final en la pagina web    
    - Notificación por correo del seguimiento del caso legal virtual    
 \
-** Administrador
+**Administrador
    - Dashboard para el adminsitrador
    - Control de ingresos
    - Control de solicitudes
