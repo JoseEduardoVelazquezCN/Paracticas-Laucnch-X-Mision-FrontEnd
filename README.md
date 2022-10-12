@@ -28,6 +28,7 @@
 ### Crea tu primer UI ✔️ 
 #### Herramineta usada: Figma
 [ver "UI DEL ADMINISTRADOR DE ABOGABOT"](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/9ba0a912334ec4cd27b060bee3d13d60dcde42ff/ADMIN%20ABOGABOT.png) 👈
+\
 [ver "UI DEL USUARIO DE ABOGABOT"](https://github.com/JoseEduardoVelazquezCN/Paracticas-Laucnch-X-Mision-FrontEnd/blob/9ba0a912334ec4cd27b060bee3d13d60dcde42ff/USUARIO%20ABOGABOT.png) 👈
 
 ###### Made with :bone::raised_hand: by JEVCN
