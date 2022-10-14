@@ -1,4 +1,4 @@
-# Paracticas-Laucnch-X-Mision-FrontEnd
+# Practicas-Laucnch-X-Mision-FrontEnd
 
 # ⭐ Practica INTRO FrontEnd ⭐ 
 ###      :rocket: Iniciando el viaje 
